@@ -6,7 +6,7 @@
        
    ***download all the contents from PROCESSING folder in order to make run correctly the code***
       
-   the processing code creates a virtual version of the pump, {arduino_code} pilots both the real and virtual pumps 
+   the processing code creates a virtual version of the pump, <http://arduino_code/> pilots both the real and virtual pumps 
        
    
    * * *
@@ -24,4 +24,10 @@
   * * * 
     
  
+ cose da fare:
+ //aggiungere il link per arduino_code 
+ //dimensionare l'immagine dell'hardware 
+ //aggiungere il video 
+ //aggiungere gli schemi a blocchi (magari come immagini incolonnate) 
+ //aggiungere le cose iniziali che si facevano per processing 
 

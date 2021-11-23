@@ -31,3 +31,11 @@ For a better understanding of the functioning you can give a look to the [circui
  
   * * * 
    
+   
+   
+ <Commit message>
+  $ git commit -m "Refactor usability tests.
+>
+>
+Co-authored-by: Gabriele <GabrieleCalamai.github.com>
+

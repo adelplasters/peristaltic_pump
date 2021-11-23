@@ -10,8 +10,8 @@
        
  | Arduino chart flow  | Processing chart flow |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|  <img src="" width="750"> | Content Cell  |
+
  
    * * *
 

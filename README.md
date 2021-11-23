@@ -6,10 +6,10 @@
        
    *download all the contents from PROCESSING folder in order to make run correctly the code*
       
-     the processing code creates a virtual version of the pump 
+   the processing code creates a virtual version of the pump 
        
    ### arduino 
-       nothing to say 
+   nothing to say 
    * * *
 
   ## hardware requirements 

@@ -20,7 +20,8 @@
   * Arduino Micro 
   
   ![circuit](circuit.png)
-  :scale: 50%
+  
+  ![circuit](circuit.png){:height="50%" width="50%"}
   * * * 
     
  

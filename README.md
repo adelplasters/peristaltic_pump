@@ -33,9 +33,4 @@ For a better understanding of the functioning you can give a look to the [circui
    
    
    
- <Commit message>
- 
->
->
-Co-authored-by: Gabriele <GabrieleCalamai.github.com>
 

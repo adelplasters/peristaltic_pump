@@ -19,11 +19,9 @@
   * 3x5 mm silicon tube 
   * Arduino Micro 
   
-  ![circuit](circuit.png)
+  ![circuit](circuit.png 250x250)
 
-   ![circuit](circuit.png){:class="img-responsive"}
- ![circuit](circuit.png){:height="50%" width="50%"}
- ![circuit](circuit.png){:height="700px" width="400px"}
+ 
   * * * 
     
  

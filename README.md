@@ -19,13 +19,15 @@
   * Arduino Micro 
   
   ![circuit](circuit.png)
+  
+  ![circuit](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
 
  
   * * * 
     
  
  cose da fare:
- //aggiungere il link per arduino_code 
+ 
  //dimensionare l'immagine dell'hardware 
  //aggiungere il video 
  //aggiungere gli schemi a blocchi (magari come immagini incolonnate) 

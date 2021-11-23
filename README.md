@@ -2,7 +2,7 @@
 
   ## software
     
-   ### -processing & arduino 
+   ###processing & arduino 
        
    ***download all the contents from PROCESSING folder in order to run correctly the code***
       

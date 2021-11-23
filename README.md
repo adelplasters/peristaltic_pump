@@ -10,7 +10,7 @@
        
  | Arduino chart flow  | Processing chart flow |
 | ------------- | ------------- |
-|  <img src="" width="750"> | Content Cell  |
+|  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/Flowchart_Arduino.jpg" width="750"> | <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/Flowchart_Processing.jpg" width="750"> |
 
  
    * * *

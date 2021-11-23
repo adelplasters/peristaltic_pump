@@ -10,7 +10,7 @@
        
  | Arduino chart flow  | Processing chart flow |
 | ------------- | ------------- |
-|  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/Flowchart_Arduino.jpg" width="500"> | <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/flowchart_Processing.png" width="750"> |
+|  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/Flowchart_Arduino.jpg" width="500"> | <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/flowchart_Processing.png" width="500"> |
 
  
    * * *

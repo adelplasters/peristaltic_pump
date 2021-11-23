@@ -6,7 +6,7 @@
        
    ***download all the contents from PROCESSING folder in order to make run correctly the code***
       
-   the processing code creates a virtual version of the pump, [Arduino_code] (https://github.com/adelplasters/peristaltic_pump/blob/main/Arduino_code.ino) pilots both the real and virtual pumps 
+   the processing code creates a virtual version of the pump, [Arduino_code](https://github.com/adelplasters/peristaltic_pump/blob/main/Arduino_code.ino) pilots both the real and virtual pumps 
        
    
    * * *

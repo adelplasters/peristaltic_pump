@@ -30,12 +30,4 @@ For a better understanding of the functioning you can give a look to the [circui
 
  
   * * * 
-    
- 
- cose da fare:
- 
- 
- //aggiungere il video 
-
- //aggiungere le cose iniziali che si facevano per processing 
-
+   

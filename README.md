@@ -8,7 +8,11 @@
       
    the processing code creates a virtual version of the pump, [Arduino_code](https://github.com/adelplasters/peristaltic_pump/blob/main/Arduino_code.ino) pilots both the real and virtual pumps 
        
-   
+ | Arduino chart flow  | Processing chart flow |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
    * * *
 
   ## hardware requirements 
@@ -26,7 +30,7 @@
  
  cose da fare:
  
- //dimensionare l'immagine dell'hardware 
+ 
  //aggiungere il video 
  //aggiungere gli schemi a blocchi (magari come immagini incolonnate) 
  //aggiungere le cose iniziali che si facevano per processing 

@@ -14,6 +14,8 @@
 | ------------- | ------------- |
 |  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/Flowchart_Arduino.jpg" width="345"> | <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/flowchart_Processing.png" width="450"> |
 
+
+![circuit_leds](https://github.com/adelplasters/peristaltic_pump/blob/main/circuit_leds.mp4)
  
    * * *
 

@@ -24,7 +24,7 @@
   * 3x5 mm silicon tube 
   * Arduino Micro 
  
-  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/circuit.png" width="750">
+  <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/circuit.png" width="800">
 
  
   * * * 

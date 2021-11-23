@@ -19,7 +19,7 @@
   * 3x5 mm silicon tube 
   * Arduino Micro 
   
-  ![Alt text](/adelplasters/peristaltic_pump/circuit.png "Overall circuit")
+  ![circuit](circuit.png)
   * * * 
     
  

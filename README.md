@@ -34,6 +34,6 @@
  
  
  //aggiungere il video 
- //aggiungere gli schemi a blocchi (magari come immagini incolonnate) 
+
  //aggiungere le cose iniziali che si facevano per processing 
 

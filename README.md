@@ -20,7 +20,7 @@
   
   ![circuit](circuit.png)
   
-  ![circuit](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
+  ![circuit](https://github.com/adelplasters/peristaltic_pump/blob/main/circuit.png) with <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/circuit.png" width="100" height="100">
 
  
   * * * 

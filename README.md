@@ -1,4 +1,14 @@
 # peristaltic_pump
+The project task is to drive a peristaltic pump using just one capacitive touch sensor, for this purpose different commands were implemented:
+* switching ON/OFF 
+* decreasing the speed
+* increasing the speed 
+* changing direction of rotation 
+
+In order to make the usage user-friendly, the commands can be selected touching the sensor for a short or a long time. 
+
+
+
 
   ## software
     

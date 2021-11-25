@@ -1,4 +1,6 @@
 # peristaltic_pump
+ <img src="https://github.com/adelplasters/peristaltic_pump/blob/main/peristaltic.png" width="500">
+
 The project task is to drive a peristaltic pump using just one capacitive touch sensor, for this purpose different commands were implemented:
 * switching ON/OFF 
 * decreasing the speed

@@ -1,6 +1,6 @@
 # peristaltic_pump
 
-    Authors: Gabriele Calamai, Sara Candido, Roberta Chiesa, Matteo Peocorella, Adelaide Stucchi, Valentina Oliveri.
+    Authors: Gabriele Calamai, Sara Candido, Roberta Chiesa, Matteo Pecorella, Adelaide Stucchi, Valentina Oliveri.
  
 ***
   
